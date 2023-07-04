@@ -63,12 +63,12 @@
 #     return max_element
 
 
-# input_list = input("Введите элементы списка через пробел: ").split(" ")
+# input_list = input("Enter a list separated by a space: ").split(" ")
 # input_list = [int(num) for num in input_list]
 
 # max_element = find_max_element(input_list)
 
-# print("Самый большой элемент в списке:", max_element)
+# print("Largest element in the list:", max_element)
 
 # =========================
 
